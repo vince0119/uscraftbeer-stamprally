@@ -1,0 +1,20 @@
+// Scss Document
+.ttlbox {
+	&__logo {
+		margin: 0;
+		padding: 20px 0 10px;
+		img {
+			width: 24vw;
+			max-width: 166px;
+			height: auto;
+		}
+	}
+	&__ttl {
+		margin: 10px 0;
+		img {
+			max-width: 187px;
+			width: 50vw;
+			height: auto;
+		}
+	}
+}
